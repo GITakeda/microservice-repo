@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: root
+    username: root
+  application:
+    name: 'fornecedor'
